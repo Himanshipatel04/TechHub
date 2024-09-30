@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "slug": "introduction-to-programming",
+      "description": "Learn the fundamentals of programming using Python, suitable for beginners.",
+      "price": 99.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true,
+      "image": "/courses/programming.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Data Structures and Algorithms",
+      "slug": "data-structures-and-algorithms",
+      "description": "Master data structures and algorithms to enhance your coding skills and problem-solving.",
+      "price": 129.99,
+      "instructor": "Bob Smith",
+      "isFeatured": true,
+      "image": "/courses/data-structures.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Build modern web applications using HTML, CSS, and JavaScript in this comprehensive course.",
+      "price": 149.99,
+      "instructor": "Charlie Brown",
+      "isFeatured": true,
+      "image": "/courses/web-development.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning Fundamentals",
+      "slug": "machine-learning-fundamentals",
+      "description": "Explore the basics of machine learning and artificial intelligence through practical projects.",
+      "price": 199.99,
+      "instructor": "Dana White",
+      "isFeatured": false,
+      "image": "/courses/machine-learning.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "slug": "mobile-app-development",
+      "description": "Create engaging mobile applications for iOS and Android platforms using React Native.",
+      "price": 139.99,
+      "instructor": "Eva Green",
+      "isFeatured": true,
+      "image": "/courses/mobile-development.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Database Management Systems",
+      "slug": "database-management-systems",
+      "description": "Learn about relational databases, SQL, and data modeling to effectively manage data.",
+      "price": 89.99,
+      "instructor": "Frank Miller",
+      "isFeatured": true,
+      "image": "/courses/databases.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Essentials",
+      "slug": "cybersecurity-essentials",
+      "description": "Understand the principles of cybersecurity and how to protect systems from cyber threats.",
+      "price": 109.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 8,
+      "title": "DevOps Practices",
+      "slug": "devops-practices",
+      "description": "Learn the principles of DevOps and how to automate deployment pipelines.",
+      "price": 149.99,
+      "instructor": "Hank Johnson",
+      "isFeatured": false,
+      "image": "/courses/devops.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cloud Computing Fundamentals",
+      "slug": "cloud-computing-fundamentals",
+      "description": "Get introduced to cloud services and learn how to deploy applications in the cloud.",
+      "price": 119.99,
+      "instructor": "Ivy Wilson",
+      "isFeatured": true,
+      "image": "/courses/cloud-computing.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Software Engineering Principles",
+      "slug": "software-engineering-principles",
+      "description": "Discover the key concepts of software development methodologies and best practices.",
+      "price": 99.99,
+      "instructor": "Jack Black",
+      "isFeatured": false,
+      "image": "/courses/software-engineering.jpg"
+    }
+  ]
+}
